@@ -9,3 +9,11 @@
 
 // DOCUMENT READY FUNCTION BELOW
 
+$("#shoot").click(function(){
+    $("#input").val();
+    
+});
+
+var userchoice = "";
+var computerchoice = "";
+var winner = "";
